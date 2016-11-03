@@ -15,4 +15,4 @@ systemctl enable docker && systemctl start docker
 systemctl enable kubelet && systemctl start kubelet
 
 #line below gets modified on vagrant up
-#kubeadm join infohere
+sudo kubeadm init | tail -n 1
