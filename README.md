@@ -1,4 +1,4 @@
---Discontinued for now, for best alternative use https://coreos.com/kubernetes/docs/latest/kubernetes-on-vagrant.html--
+##Discontinued for now, for best alternative use https://coreos.com/kubernetes/docs/latest/kubernetes-on-vagrant.html##
 
 This launches a small (Master + 2 nodes) Kubernetes cluster using Vagrant.
 
